@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+<text x="180" y="38" style="font-size: 15px; font-family: Verdana;"> Sorted Average Test Grade </text><line x1="50" y1="50" x2="50" y2="450" style="stroke:black;stroke-width:2"/><line x1="50" y1="450" x2="450" y2="450" style="stroke:black;stroke-width:2"/>
+<rect x="423.3" y="50.0" width="26.7" height="400.0" style="fill:rgb(30.0,225.0,0.0);"/>
+<text x="427.3" y="48.0" style="font-size: 12px;">76.9</text>
+<text x="433.3" y="467" style="font-size: 12px;">8</text>
+<rect x="383.3" y="54.7" width="26.7" height="395.3" style="fill:rgb(55.0,200.0,0.0);"/>
+<text x="387.3" y="52.7" style="font-size: 12px;">76.0</text>
+<text x="393.3" y="467" style="font-size: 12px;">6</text>
+<rect x="343.3" y="77.4" width="26.7" height="372.6" style="fill:rgb(80.0,175.0,0.0);"/>
+<text x="347.3" y="75.4" style="font-size: 12px;">71.6</text>
+<text x="353.3" y="467" style="font-size: 12px;">9</text>
+<rect x="303.3" y="80.3" width="26.7" height="369.7" style="fill:rgb(105.0,150.0,0.0);"/>
+<text x="307.3" y="78.3" style="font-size: 12px;">71.1</text>
+<text x="313.3" y="467" style="font-size: 12px;">7</text>
+<rect x="263.3" y="123.8" width="26.7" height="326.2" style="fill:rgb(130.0,125.0,0.0);"/>
+<text x="267.3" y="121.8" style="font-size: 12px;">62.7</text>
+<text x="273.3" y="467" style="font-size: 12px;">5</text>
+<rect x="223.3" y="136.1" width="26.7" height="313.9" style="fill:rgb(155.0,100.0,0.0);"/>
+<text x="227.3" y="134.1" style="font-size: 12px;">60.4</text>
+<text x="233.3" y="467" style="font-size: 12px;">3</text>
+<rect x="183.3" y="151.2" width="26.7" height="298.8" style="fill:rgb(180.0,75.0,0.0);"/>
+<text x="187.3" y="149.2" style="font-size: 12px;">57.5</text>
+<text x="193.3" y="467" style="font-size: 12px;">10</text>
+<rect x="143.3" y="165.8" width="26.7" height="284.2" style="fill:rgb(205.0,50.0,0.0);"/>
+<text x="147.3" y="163.8" style="font-size: 12px;">54.6</text>
+<text x="153.3" y="467" style="font-size: 12px;">2</text>
+<rect x="103.3" y="172.5" width="26.7" height="277.5" style="fill:rgb(230.0,25.0,0.0);"/>
+<text x="107.3" y="170.5" style="font-size: 12px;">53.4</text>
+<text x="113.3" y="467" style="font-size: 12px;">4</text>
+<rect x="63.3" y="194.7" width="26.7" height="255.3" style="fill:rgb(255.0,0.0,0.0);"/>
+<text x="67.3" y="192.7" style="font-size: 12px;">49.1</text>
+<text x="73.3" y="467" style="font-size: 12px;">1</text>
+</svg>
